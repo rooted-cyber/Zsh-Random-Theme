@@ -21,7 +21,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting
 msg cloning oh-my-zsh
 msg
 git clone https://github.com/ohmyzsh/ohmyzsh ~/.oh-my-zsh
-cp ~/Zsh*e/ .zsh* ~
+cp ~/Zsh*e/.zsh* ~
 }
 
 menu() {
