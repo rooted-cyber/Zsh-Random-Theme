@@ -8,3 +8,4 @@ source $ZSH/oh-my-zsh.sh
 source ~/.Rootedcyber/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source ~/.Rootedcyber/zsh-autosuggestions/zsh-autosuggestions.zsh
 msg Type zsh to change theme
+source ~/so
