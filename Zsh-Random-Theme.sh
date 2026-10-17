@@ -23,6 +23,7 @@ msg
 git clone https://github.com/ohmyzsh/ohmyzsh ~/.oh-my-zsh
 cp ~/Zsh*e/.zsh* ~
 cp ~/Zs*e/so ~
+apt install zsh -y
 }
 
 menu() {
